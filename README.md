@@ -2,8 +2,6 @@
 
 ChessMaster is a comprehensive chess game built from scratch in Python. It features a full chess engine, a GUI engine for intuitive gameplay, and an advanced AI engine utilizing minimax and alpha-beta pruning algorithms. ChessMaster supports the Universal Chess Interface (UCI), ensuring compatibility with various chess software. Additionally, a C++ implementation is in progress to enhance performance and platform compatibility. Whether you're a casual player or a developer, ChessMaster offers a robust and engaging chess experience.
 
-[![kandi X-Ray](https://kandi.openweaver.com/badges/xray.svg)](https://kandi.openweaver.com/python/boosungkim/python-chess) [![kandi Featured](https://kandi.openweaver.com/badges/featured.svg)](https://kandi.openweaver.com/collections/gaming/chess)
-
 <p align="center">
 <img src="demo-footage/chess-start.png" width="400"/>
 </p>
